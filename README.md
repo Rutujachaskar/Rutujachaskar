@@ -2,6 +2,7 @@
 - 👀 I’m interested in Coding,Java Development using spring boot,Web development and exploring new technologies.
 - 🌱 I’m currently learning web development and starting a new internship as a Java developer from September 2,2024.
 - I have begin my secong internship as a Mern stack developer
+- I have begin my preparations for dsa 
 - 💞️ I’m looking to collaborate on coding projects,web development and data science related tasks.
 - 📫 How to reach me :LinkedIn https://www.linkedin.com/feed/
 - 😄 Pronouns: She/her
